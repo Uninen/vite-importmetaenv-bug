@@ -9,6 +9,8 @@ const APP_VERSION = import.meta.env.VITE_APP_VERSION
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+
+  <p>import.meta.env</p>
 </template>
 
 <style>
